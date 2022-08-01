@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ZachRauch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @ZachRauch Thanks for visiting my Github page!
+- 👀 I’m interested in data analytics and engineering.
+- 🌱 I’m currently transitioning into a data driven career path.
 - 📫 How to reach me at [Zach.Rauch@outlook.com](Zach.Rauch@outlook.com)
 
 <!---
